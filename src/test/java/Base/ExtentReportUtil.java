@@ -8,7 +8,7 @@ import org.openqa.selenium.TakesScreenshot;
 
 import java.io.File;
 import java.io.IOException;
-import java.nio.file.Files;
+import java.io.file.Files;
 
 /**
  * Created by Karthik on 31/01/2019.
